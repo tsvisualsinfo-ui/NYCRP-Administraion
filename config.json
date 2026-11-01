@@ -1,0 +1,195 @@
+{
+  "brand": {
+    "name": "NYCRP Administraion",
+    "colour": "#C62828",
+    "footer": "Managing NYCRP with the best cmds"
+  },
+  "channels": {
+    "logs": "1566562362364919848",
+    "ticketCategory": "1555316963096395830",
+    "ticketPanel": "1555316957064995144",
+    "applications": "1555325661688889426"
+  },
+  "roles": {
+    "staff": "1555316953864998994",
+    "ticketSupport": "1566562970639663235",
+    "moderator": "1555316953940365462",
+    "departments": {
+      "Police": "1555316953705488447",
+      "Fire & Rescue": "1555316953705488444",
+      "DOT": "1556023195528593448",
+      "Communications": "",
+      "Sheriff": "1556516580211302450",
+      "Internal Affairs": "1555316953994895385",
+      "Staff Management": "1555316954108264450"
+    },
+    "ranks": {
+      "Police": [
+        {
+          "name": "Recruit",
+          "roleId": ""
+        },
+        {
+          "name": "Officer",
+          "roleId": ""
+        },
+        {
+          "name": "Senior Officer",
+          "roleId": ""
+        },
+        {
+          "name": "Sergeant",
+          "roleId": ""
+        },
+        {
+          "name": "Lieutenant",
+          "roleId": ""
+        },
+        {
+          "name": "Captain",
+          "roleId": ""
+        },
+        {
+          "name": "Chief",
+          "roleId": ""
+        }
+      ],
+      "Fire & Rescue": [
+        {
+          "name": "Trainee",
+          "roleId": ""
+        },
+        {
+          "name": "Firefighter",
+          "roleId": ""
+        },
+        {
+          "name": "Senior Firefighter",
+          "roleId": ""
+        },
+        {
+          "name": "Lieutenant",
+          "roleId": ""
+        },
+        {
+          "name": "Station Officer",
+          "roleId": ""
+        },
+        {
+          "name": "Chief",
+          "roleId": ""
+        }
+      ],
+      "DOT": [
+        {
+          "name": "Trainee",
+          "roleId": ""
+        },
+        {
+          "name": "Operator",
+          "roleId": ""
+        },
+        {
+          "name": "Senior Operator",
+          "roleId": ""
+        },
+        {
+          "name": "Supervisor",
+          "roleId": ""
+        },
+        {
+          "name": "Director",
+          "roleId": ""
+        }
+      ],
+      "Communications": [
+        {
+          "name": "Trainee Dispatcher",
+          "roleId": ""
+        },
+        {
+          "name": "Dispatcher",
+          "roleId": ""
+        },
+        {
+          "name": "Senior Dispatcher",
+          "roleId": ""
+        },
+        {
+          "name": "Control Supervisor",
+          "roleId": ""
+        },
+        {
+          "name": "Director",
+          "roleId": ""
+        }
+      ],
+      "Sheriff": [
+        {
+          "name": "Cadet",
+          "roleId": ""
+        },
+        {
+          "name": "Deputy",
+          "roleId": ""
+        },
+        {
+          "name": "Senior Deputy",
+          "roleId": ""
+        },
+        {
+          "name": "Sergeant",
+          "roleId": ""
+        },
+        {
+          "name": "Undersheriff",
+          "roleId": ""
+        },
+        {
+          "name": "Sheriff",
+          "roleId": ""
+        }
+      ],
+      "Internal Affairs": [
+        {
+          "name": "Trial IA",
+          "roleId": "1555316953994895381"
+        },
+        {
+          "name": "IA",
+          "roleId": "1555316953994895382"
+        },
+        {
+          "name": "Senior IA",
+          "roleId": "1555316953994895383"
+        },
+        {
+          "name": "IA Director",
+          "roleId": "1555316953994895384"
+        }
+      ],
+      "Staff Management": [
+        {
+          "name": "Trial Moderator",
+          "roleId": "1555316953864998999"
+        },
+        {
+          "name": "Moderator",
+          "roleId": "1555316953940365464"
+        },
+        {
+          "name": "Senior Moderator",
+          "roleId": "1555316953940365465"
+        },
+        {
+          "name": "Administrator",
+          "roleId": "1556029775376556073"
+        },
+        {
+          "name": "Management",
+          "roleId": "1565891361855512747"
+        }
+      ]
+    }
+  }
+}
